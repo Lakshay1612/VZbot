@@ -1,0 +1,37 @@
+[
+  {
+    "usage_id": "USAGE001",
+    "account_id": "TEL1001",
+    "data_consumed": "7.5 GB",
+    "call_minutes_used": "140 mins",
+    "sms_used": "70 SMS"
+  },
+  {
+    "usage_id": "USAGE002",
+    "account_id": "TEL2002",
+    "data_consumed": "8 GB",
+    "call_minutes_used": "150 mins",
+    "sms_used": "50 SMS"
+  },
+  {
+    "usage_id": "USAGE003",
+    "account_id": "TEL3003",
+    "data_consumed": "4.9 GB",
+    "call_minutes_used": "95 mins",
+    "sms_used": "48 SMS"
+  },
+  {
+    "usage_id": "USAGE004",
+    "account_id": "TEL4004",
+    "data_consumed": "18 GB",
+    "call_minutes_used": "200 mins",
+    "sms_used": "100 SMS"
+  },
+  {
+    "usage_id": "USAGE005",
+    "account_id": "TEL5005",
+    "data_consumed": "13 GB",
+    "call_minutes_used": "80 mins",
+    "sms_used": "30 SMS"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "order_id": "ORD12345",
+    "account_id": "TEL5005",
+    "item_purchased": "5G SIM",
+    "order_date_time": "2025-02-18 14:00",
+    "status": "Delivered",
+    "shipping_information": {
+      "tracking_number": "FedEx #98765",
+      "estimated_delivery_date": "2025-02-20",
+      "real_time_status": "Delivered on 2025-02-20"
+    },
+    "order_milestones": {
+      "key_events": ["Shipped on 2025-02-19", "Delivered on 2025-02-20"],
+      "time_since_last_update": "48 hours"
+    }
+  },
+  {
+    "order_id": "ORD67890",
+    "account_id": "TEL4004",
+    "item_purchased": "iPhone 14",
+    "order_date_time": "2025-02-15 09:30",
+    "status": "Shipped",
+    "shipping_information": {
+      "tracking_number": "UPS #54321",
+      "estimated_delivery_date": "2025-02-22",
+      "real_time_status": "In transit, arriving tomorrow"
+    },
+    "order_milestones": {
+      "key_events": ["Processing on 2025-02-15", "Shipped on 2025-02-20"],
+      "time_since_last_update": "24 hours"
+    }
+  },
+  {
+    "order_id": "ORD24680",
+    "account_id": "TEL3003",
+    "item_purchased": "Wi-Fi Router",
+    "order_date_time": "2025-02-19 16:00",
+    "status": "Processing",
+    "shipping_information": {
+      "tracking_number": "N/A",
+      "estimated_delivery_date": "2025-02-25",
+      "real_time_status": "Awaiting shipment"
+    },
+    "order_milestones": {
+      "key_events": ["Order placed on 2025-02-19"],
+      "time_since_last_update": "72 hours"
+    }
+  },
+  {
+    "order_id": "ORD13579",
+    "account_id": "TEL2002",
+    "item_purchased": "5G SIM",
+    "order_date_time": "2025-02-17 11:00",
+    "status": "Delivered",
+    "shipping_information": {
+      "tracking_number": "DHL #11223",
+      "estimated_delivery_date": "2025-02-19",
+      "real_time_status": "Delivered on 2025-02-19"
+    },
+    "order_milestones": {
+      "key_events": ["Shipped on 2025-02-18", "Delivered on 2025-02-19"],
+      "time_since_last_update": "96 hours"
+    }
+  },
+  {
+    "order_id": "ORD35791",
+    "account_id": "TEL1001",
+    "item_purchased": "iPhone 14 Case",
+    "order_date_time": "2025-02-21 13:00",
+    "status": "Out for delivery",
+    "shipping_information": {
+      "tracking_number": "USPS #44556",
+      "estimated_delivery_date": "2025-02-23",
+      "real_time_status": "Out for delivery, arriving today"
+    },
+    "order_milestones": {
+      "key_events": ["Shipped on 2025-02-22", "Out for delivery on 2025-02-23"],
+      "time_since_last_update": "12 hours"
+    }
+  }
+]

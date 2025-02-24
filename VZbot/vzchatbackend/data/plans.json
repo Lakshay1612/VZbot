@@ -1,0 +1,47 @@
+[
+  {
+    "plan_id": "PLAN001",
+    "data_allowance": "8 GB",
+    "voice_allowance": "150 mins",
+    "sms_allowance": "75 SMS",
+    "monthly_cost": "$35",
+    "plan_type": "prepaid",
+    "renewal_date": "2025-03-05"
+  },
+  {
+    "plan_id": "PLAN002",
+    "data_allowance": "20 GB",
+    "voice_allowance": "500 mins",
+    "sms_allowance": "300 SMS",
+    "monthly_cost": "$60",
+    "plan_type": "postpaid",
+    "renewal_date": "2025-03-15"
+  },
+  {
+    "plan_id": "PLAN003",
+    "data_allowance": "5 GB",
+    "voice_allowance": "100 mins",
+    "sms_allowance": "50 SMS",
+    "monthly_cost": "$25",
+    "plan_type": "prepaid",
+    "renewal_date": "2025-02-28"
+  },
+  {
+    "plan_id": "PLAN004",
+    "data_allowance": "15 GB",
+    "voice_allowance": "300 mins",
+    "sms_allowance": "200 SMS",
+    "monthly_cost": "$50",
+    "plan_type": "postpaid",
+    "renewal_date": "2025-03-10"
+  },
+  {
+    "plan_id": "PLAN005",
+    "data_allowance": "10 GB",
+    "voice_allowance": "200 mins",
+    "sms_allowance": "100 SMS",
+    "monthly_cost": "$40",
+    "plan_type": "prepaid",
+    "renewal_date": "2025-03-01"
+  }
+]

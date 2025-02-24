@@ -1,0 +1,43 @@
+[
+  {
+    "perk_id": "PERK001",
+    "description": "Includes free Verizon cloud storage of 5GB",
+    "additional_benefits": [
+      "No extra charge for roaming within the US",
+      "Free access to Verizon Call Filter"
+    ]
+  },
+  {
+    "perk_id": "PERK002",
+    "description": "Premium postpaid plan with unlimited perks",
+    "additional_benefits": [
+      "HBO Max subscription included",
+      "5G Ultra-Wideband priority access",
+      "Unlimited hotspot data at 5 Mbps"
+    ]
+  },
+  {
+    "perk_id": "PERK003",
+    "description": "Budget-friendly prepaid plan with essential benefits",
+    "additional_benefits": [
+      "Discounted international calling rates",
+      "Data rollover for unused data"
+    ]
+  },
+  {
+    "perk_id": "PERK004",
+    "description": "Mid-tier postpaid plan with exclusive rewards",
+    "additional_benefits": [
+      "Disney+ free for 6 months",
+      "50% off Verizon TravelPass"
+    ]
+  },
+  {
+    "perk_id": "PERK005",
+    "description": "Affordable prepaid plan with select benefits",
+    "additional_benefits": [
+      "3 months of Apple Music included",
+      "Unlimited texting to over 200 countries"
+    ]
+  }
+]

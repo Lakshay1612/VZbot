@@ -1,0 +1,16 @@
+[
+  {
+    "overage_id": "OVERAGE001",
+    "account_id": "TEL1001",
+    "extra_charges": "$0",
+    "unused_allowances": "0.5 GB, 10 mins, 5 SMS",
+    "top_up_frequency": "1 time in 30 days"
+  },
+  {
+    "overage_id": "OVERAGE002",
+    "account_id": "TEL2002",
+    "extra_charges": "$0",
+    "unused_allowances": "12 GB, 350 mins, 250 SMS",
+    "top_up_frequency": "N/A"
+  }
+]

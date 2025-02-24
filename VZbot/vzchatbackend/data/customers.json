@@ -1,0 +1,87 @@
+[
+  {
+    "account_id": "TEL1001",
+    "name": "Priya Sharma",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "New York",
+      "postal_code": "10001",
+      "country": "USA"
+    },
+    "account_type": "prepaid",
+    "plan_id": "PLAN001",
+    "usage_id": "USAGE001",
+    "overage_id": "OVERAGE001",
+    "orders": ["ORD35791"],
+    "perk_id": "PERK001"
+  },
+  {
+    "account_id": "TEL2002",
+    "name": "James Carter",
+    "address": {
+      "street": "45 Oak Lane",
+      "city": "Austin",
+      "state": "Texas",
+      "postal_code": "78701",
+      "country": "USA"
+    },
+    "account_type": "postpaid",
+    "plan_id": "PLAN002",
+    "usage_id": "USAGE002",
+    "overage_id": "OVERAGE002",
+    "orders": ["ORD13579"],
+    "perk_id": "PERK002"
+  },
+  {
+    "account_id": "TEL3003",
+    "name": "Aisha Khan",
+    "address": {
+      "street": "789 Pine Road",
+      "city": "Bozeman",
+      "state": "Montana",
+      "postal_code": "59715",
+      "country": "USA"
+    },
+    "account_type": "prepaid",
+    "plan_id": "PLAN003",
+    "usage_id": "USAGE003",
+    "overage_id": "OVERAGE003",
+    "orders": ["ORD24680"],
+    "perk_id": "PERK003"
+  },
+  {
+    "account_id": "TEL4004",
+    "name": "Liam O’Connor",
+    "address": {
+      "street": "101 Market Street",
+      "city": "San Francisco",
+      "state": "California",
+      "postal_code": "94105",
+      "country": "USA"
+    },
+    "account_type": "postpaid",
+    "plan_id": "PLAN004",
+    "usage_id": "USAGE004",
+    "overage_id": "OVERAGE004",
+    "orders": ["ORD67890"],
+    "perk_id": "PERK004"
+  },
+  {
+    "account_id": "TEL5005",
+    "name": "Sofia Mendes",
+    "address": {
+      "street": "56 Elm Street",
+      "city": "Asheville",
+      "state": "North Carolina",
+      "postal_code": "28801",
+      "country": "USA"
+    },
+    "account_type": "prepaid",
+    "plan_id": "PLAN005",
+    "usage_id": "USAGE005",
+    "overage_id": "OVERAGE005",
+    "orders": ["ORD12345"],
+    "perk_id": "PERK005"
+  }
+]

@@ -1,0 +1,104 @@
+/* .message-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 8px 10px;
+  max-width: 80%;
+}
+
+
+.message-container.user {
+  align-items: flex-end;
+}
+
+.message-bubble {
+  padding: 12px 16px;
+  border-radius: 20px;
+  max-width: 100%;
+  font-size: 14px;
+  position: relative;
+  box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.message-container.user .message-bubble {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  border-bottom-right-radius: 5px;
+}
+
+.message-container.bot .message-bubble {
+  background: #f1f1f1;
+  color: black;
+  border-bottom-left-radius: 5px;
+}
+
+.message-text {
+  margin: 0;
+  word-wrap: break-word;
+}
+
+.message-time {
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0.5);
+  margin-top: 3px;
+}
+
+.message-container.user .message-time {
+  color: rgba(255, 255, 255, 0.6);
+} */
+
+/* Message container */
+.message-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 75%;
+  margin: 5px 10px;
+  font-size: 14px;
+  position: relative;
+}
+
+/* User message */
+.message-container.user {
+  align-self: flex-end;
+  text-align: right;
+}
+
+.message-container.user .message-bubble {
+  background-color: #ff0000; /* Verizon red */
+  color: white;
+}
+
+/* Bot message */
+.message-container.bot {
+  align-self: flex-start;
+  text-align: left;
+}
+
+.message-container.bot .message-bubble {
+  background-color: #e6e6e6; /* Light gray */
+  color: black;
+}
+
+/* Message bubble */
+.message-bubble {
+  padding: 10px 14px;
+  border-radius: 18px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  word-wrap: break-word;
+  max-width: 100%;
+}
+
+/* Message time */
+.message-time {
+  font-size: 12px;
+  color: #999;
+  margin-top: 4px;
+  align-self: flex-end;
+}
+
+/* Styling for the chatbot pop-up to match Verizon theme */
+@media screen and (max-width: 600px) {
+  .message-container {
+    max-width: 85%;
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "issues": [
+    {
+      "category": "Battery",
+      "problems": [
+        {
+          "problem": "Battery draining too fast",
+          "causes": [
+            "High screen brightness",
+            "Too many background apps running",
+            "Old or degraded battery"
+          ],
+          "solutions": [
+            "Reduce screen brightness",
+            "Close unused apps",
+            "Check battery health and consider replacement"
+          ]
+        },
+        {
+          "problem": "Phone not charging",
+          "causes": [
+            "Faulty charging cable",
+            "Blocked charging port",
+            "Battery damage"
+          ],
+          "solutions": [
+            "Use a different charging cable",
+            "Clean charging port with compressed air",
+            "Check for battery swelling or damage"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Internet",
+      "problems": [
+        {
+          "problem": "Slow mobile internet",
+          "causes": [
+            "Weak Verizon network signal",
+            "Data limit exceeded",
+            "Too many background apps using data"
+          ],
+          "solutions": [
+            "Move to a location with better signal",
+            "Check data balance on Verizon app and recharge if needed",
+            "Disable background data for non-essential apps"
+          ]
+        },
+        {
+          "problem": "Wi-Fi not connecting",
+          "causes": [
+            "Incorrect Wi-Fi password",
+            "Router malfunction",
+            "Network interference"
+          ],
+          "solutions": [
+            "Re-enter the correct password",
+            "Restart the Verizon router",
+            "Try switching Wi-Fi channels"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Warranty & Repairs",
+      "problems": [
+        {
+          "problem": "How to check Verizon device warranty?",
+          "causes": [
+            "Warranty period unclear",
+            "No receipt or proof of purchase"
+          ],
+          "solutions": [
+            "Check warranty status on Verizon's official website",
+            "Find the purchase receipt or invoice from Verizon"
+          ]
+        },
+        {
+          "problem": "Phone screen cracked",
+          "causes": ["Accidental drop", "Pressure damage"],
+          "solutions": [
+            "Visit an authorized Verizon service center",
+            "Check if screen replacement is covered under Verizon’s warranty or insurance plan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "SIM & Network",
+      "problems": [
+        {
+          "problem": "SIM card not detected",
+          "causes": [
+            "Incorrect SIM placement",
+            "Damaged SIM card",
+            "Verizon network issues"
+          ],
+          "solutions": [
+            "Remove and reinsert the Verizon SIM card",
+            "Try using the SIM in another phone",
+            "Contact Verizon customer support"
+          ]
+        },
+        {
+          "problem": "Call drops frequently",
+          "causes": [
+            "Weak Verizon network coverage",
+            "SIM card misalignment",
+            "Network congestion"
+          ],
+          "solutions": [
+            "Move to an area with better Verizon signal",
+            "Reinsert the SIM properly",
+            "Try switching network modes (e.g., 4G to 3G)"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "5G Connectivity",
+      "problems": [
+        {
+          "problem": "5G not working on Verizon",
+          "causes": [
+            "5G coverage not available in your area",
+            "5G setting disabled",
+            "Device not compatible with Verizon 5G"
+          ],
+          "solutions": [
+            "Check Verizon's 5G coverage map",
+            "Enable 5G in network settings",
+            "Upgrade to a Verizon 5G-supported device"
+          ]
+        },
+        {
+          "problem": "5G speed slower than expected",
+          "causes": [
+            "Network congestion",
+            "Interference from buildings or obstacles",
+            "Device software outdated"
+          ],
+          "solutions": [
+            "Try switching to LTE temporarily",
+            "Move to an open area with a stronger 5G signal",
+            "Update your device software"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Billing & Account",
+      "problems": [
+        {
+          "problem": "Unexpected charges on Verizon bill",
+          "causes": [
+            "Roaming charges applied",
+            "Premium service subscription",
+            "Overage fees"
+          ],
+          "solutions": [
+            "Review your bill on the Verizon app",
+            "Contact Verizon support for billing disputes",
+            "Check and disable unnecessary subscriptions"
+          ]
+        },
+        {
+          "problem": "Unable to log in to Verizon account",
+          "causes": [
+            "Incorrect password",
+            "Account locked due to multiple login attempts",
+            "Verizon system maintenance"
+          ],
+          "solutions": [
+            "Reset your Verizon account password",
+            "Wait for the account lock to be lifted",
+            "Check Verizon’s status page for outages"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Verizon Fios (Home Internet & TV)",
+      "problems": [
+        {
+          "problem": "No internet on Verizon Fios",
+          "causes": [
+            "Router issue",
+            "Service outage in your area",
+            "Loose or disconnected cables"
+          ],
+          "solutions": [
+            "Restart your Verizon Fios router",
+            "Check for outages on Verizon’s website",
+            "Ensure all cables are properly connected"
+          ]
+        },
+        {
+          "problem": "Verizon TV not working",
+          "causes": [
+            "Set-top box error",
+            "Subscription issue",
+            "Signal interference"
+          ],
+          "solutions": [
+            "Restart your set-top box",
+            "Check if your subscription is active",
+            "Reposition your Wi-Fi router"
+          ]
+        }
+      ]
+    }
+  ]
+}
