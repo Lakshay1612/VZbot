@@ -1,1 +1,1 @@
-# VZbot
+# VZ-bot
